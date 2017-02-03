@@ -2,3 +2,4 @@
 bootstrap.php
 vendor/
 *.lock
+*.idea/
