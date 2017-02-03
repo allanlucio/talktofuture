@@ -1,3 +1,4 @@
-development
+Development
 
-fold reserved to development.
+Fold reserved to development.
+Functionalities in generally will be added here as a different projects.
